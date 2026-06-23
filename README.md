@@ -8,7 +8,7 @@
 # How to start working
 
 ### You'll need:
-* Drivers for ESP Devices - They are located in the repository in the folder "```drivers```"
+* Drivers for Firmware you PCB - According to the firmware documentation, different drivers are provided for each board. You can find them on a website like https://wch-ic.com
 * Download and Install - ESP Home Device Builder (There are various options, including installation on different operating systems or running the application via Docker)
 * Prepare and run you variant of Home Assistant (Dedicated Server, Virtual Machine or Docker Container)
 
