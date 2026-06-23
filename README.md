@@ -16,7 +16,7 @@
 > [!TIP]
 > Using ESP Home Device Builder in a container may slow down its performance, specifically the compilation and caching of the firmware file for boards, especially the first time a board is added.
 
-Download link(Device Builder): https://desktop.esphome.io
+Download (Device Builder): https://desktop.esphome.io  
 WebSite: https://esphome.io  
 Documentation: https://esphome.io/guides/getting_started_hassio  
 Device List (Database): https://devices.esphome.io  
@@ -28,3 +28,16 @@ Components: https://esphome.io/components
 > When programming the boards, make sure the cable is intact and in good working order, and use high-quality wires for the connections
 
 # Home Assistant
+> [!TIP]
+> Using a non-full-featured version of Home Assistant—that is, running it in a container—results in the loss of access to the app store. This isn't a critical issue, but it does prevent you from using many interesting features.
+
+WebSite: https://esphome.io  
+Installation & Tutorials & Downloads : https://www.home-assistant.io/installation/
+### Deployment is supported on:
+* Raspberry Pi (Installation)
+* ODROID (Flashing)
+* Generic x86-64 (Generic as system & Container)
+* Linux (VirtualBox & Unraid & KMV, virt)
+* macOS (VirtualBox)
+* Windows (VirtualBox & VMware Workstation & Hyper-V)
+* Other systems
